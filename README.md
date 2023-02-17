@@ -42,3 +42,6 @@ Utilizaremos Java para o desenvolvimento backend e HTML5 (com CSS) para o fronte
 
 - [Java como Programar](https://plataforma.bvirtual.com.br/Acervo/Publicacao/39590), Deitel, 10ª Ed.
 - [Sistemas Orientados a Objetos](https://plataforma.bvirtual.com.br/Acervo/Publicacao/197367), 1ª Ed.
+- [Programação orientada a objetos com JAVA sem mistérios](https://aapa.uninove.br/seu/SEU0255/download_ebook.php?livro=NjI3NDE0MDNjNzg5ZjE1MTVmMDEwYzhhNTY1ZTk5MGJfNzAyMzY0) - Teruel, 1ª Ed., Editora Uninove (na parte de Livros, na central do aluno)
+- [Java Programming for Complete Beginners](https://learning.oreilly.com/videos/java-programming-for/9781838556976/)
+- [Object-Oriented Programming with Java](https://learning.oreilly.com/videos/object-oriented-programming-with/9780136798163/)
