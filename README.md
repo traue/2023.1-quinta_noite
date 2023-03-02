@@ -1,41 +1,43 @@
 # 2023.1 - Aplicações Orientadas a Objetos
 
-**Prof. Thiago G. Traue**
+Prof. Thiago G. Traue
 
 **E-mail:** thiago.traue@uni9.pro.br
 
 **Turma:** 5 - Quintas à noite
 
-**Classroom**: LINK EM BREVE
+[LINK DO CLASSROOM](https://classroom.google.com/c/NTkzODc1MjgyMjQ0?cjc=6bzjtgo)
 
 ---
 
 ## Preparação do ambiente de desenvolvimento
 
-Faremos juntos a partir do dia 02.03
+Se você não conseguiu acompanhar a aula em que preparamos juntos o ambiente de desenvolvimento, veja o documento [NESTE LINK](https://docs.google.com/document/d/1qfQjJBDyN7zNlA0FEun5iN5A8N951Z3UzlTo-we0t1c/edit?usp=sharing).
+
+Lembre-se que é preciso utilizar o e-mail institucional para acessar os links deste repositório.
 
 ## Critérios de avaliação
 
-Teremos apenas uma única avaliação (múltipla escolha) próximo ao fim do semestre, além da integrada. 
+Teremos apenas uma única avaliação (múltipla escolha) próximo ao fim do semestre, além da integrada.
 
 Essa avaliação erá sua data definida em breve.
 
 ## Mini ementa da disciplina
 
-Nessa disciplina vamos aprender a utilizar o Java EE (Entreprise Editon) para desenvolver aplicações Web. 
+Nessa disciplina vamos aprender a utilizar o Java EE (Entreprise Editon) para desenvolver aplicações Web.
 
 Utilizaremos Java para o desenvolvimento backend e HTML5 (com CSS) para o frontend. Utilizaremos JSP.
 
 ## Links interessantes
 
 - Cursos interessantes (gratuitos)
-    - [Git e Github](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) - School of Net
-    - [Git e Github para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/) - Udemy
-    - [FreeCodeCamp](https://www.freecodecamp.org/) - Cursos gratuitos de desenvolvimento
-    - [Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) - Curso de Harvard
+  - [Git e Github](https://www.schoolofnet.com/curso/git/controle-de-versao/git-e-github/) - School of Net
+  - [Git e Github para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/) - Udemy
+  - [FreeCodeCamp](https://www.freecodecamp.org/) - Cursos gratuitos de desenvolvimento
+  - [Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0) - Curso de Harvard
 - Canais interessantes de YT:
-    - [Curso em vídeo](https://www.youtube.com/@CursoemVideo) - Canal do Gustavo Guanabara
-    - [Felipe Deschamps](https://www.youtube.com/@FilipeDeschamps) - Canal do Deschamps
+  - [Curso em vídeo](https://www.youtube.com/@CursoemVideo) - Canal do Gustavo Guanabara
+  - [Felipe Deschamps](https://www.youtube.com/@FilipeDeschamps) - Canal do Deschamps
 - [Bootcamps Dio](https://www.dio.me/)
 
 ## Bibliografia
